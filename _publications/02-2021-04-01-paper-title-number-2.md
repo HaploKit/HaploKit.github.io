@@ -1,7 +1,7 @@
 ---
 title: "OGRE: Overlap Graph-based metagenomic Read clustEring"
 collection: publications
-permalink: /publication/2021-04-01-paper-title-number-2
+permalink: /publication/02-2021-04-01-paper-title-number-2
 excerpt: ''
 date: 2021-04-01
 venue: 'Bioinformatics'
