@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioinformatics, Huazhong University of Science and Technology (华中科技大学), Sep 2009 - Jun 2013
+* M.S. in Genomics, University of Chinese Academy of Sciences, Sep 2013 - Jul 2016
+* Ph.D candidate in Bioinformatics, Bielefeld University, Nov 2018 - Present
 
 Work experience
 ======
@@ -29,12 +29,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Programming Python (proficient), C++/Perl/R/Shell (competent), Rust/Javascript (novice)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Languages Madrin (mother), English (proficient)
 
 Publications
 ======
@@ -54,6 +54,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+* xx
+
+Honors and Awards
+======
+2010	Model Student of Academic Records of Huazhong University of Science and Technology
+2012	National Encouragement Scholarship of Huazhong University of Science and Technology
+2013	Outstanding Graduates of Huazhong University of Science and Technology
+2018	China Scholarship Council (CSC) Scholarship
