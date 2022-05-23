@@ -1,7 +1,7 @@
 ---
 title: "VeChat: Correcting errors in long reads using variation graphs"
 collection: publications
-permalink: /publication/2022-vechat-paper-title-number-7
+permalink: /publication/07-2022-vechat-paper-title-number-7
 excerpt: 'We present VeChat, as a novel approach to implement this idea: VeChat distinguishes errors from haplotype-specific true variants based on variation graphs, which reflect a popular type of data structure for pangenome reference systems.'
 date: 2022-02
 venue: 'bioRxiv  '
