@@ -35,6 +35,7 @@ Research Experiences
 
 * **BGI-Shenzhen**
   * Mar 2012 - Jul 2016: Internship (Joint Training Programs)
+  * Supervisor: Prof. Xiuqing Zhang
   * Main projects: 
     * Applied metagenomics to study the associations between human gut/oral microbiota and diseases, such as inflammatory bowel disease, rheumatoid arthritis and type 2 diabetes. 
     * Analyzed transcriptomics and metabolomics data to investigate the radioresistant machnism of Deinococcus radiodurans R1.
