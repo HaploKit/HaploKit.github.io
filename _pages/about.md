@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "xx"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by t
+I am Xiao Luo (罗宵), a PhD candidate from Bielefeld University. My research interests mainly focus on computational genomics,  microbiome, etc. I developed several computational methods and tools for haplotype-aware genome assembly, including diploid assembly (phasebook), viral quasispecies assembly (Strainline), strain-aware metagenome assembly (StrainXpress, MetaBooster/MetaBooster-HiFi). The findings have been published in high impact journals, such as *Genome Biology, Nucleic Acids Research, Bioinformatics, Nature Communications*, etc.
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 xx
+ -->
