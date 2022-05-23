@@ -16,7 +16,7 @@ Education
 * M.S. in Genomics, University of Chinese Academy of Sciences (中国科学院大学), Sep 2013 - Jul 2016
 * B.S. in Bioinformatics, Huazhong University of Science and Technology (华中科技大学), Sep 2009 - Jun 2013
 
-Research Experience
+Research Experiences
 ======
 * **Center for Mathematics & Computer Science** (CWI, the Netherlands, Nov 2018 - Jul 2020)  &
 * **Bielefeld University** (Germany, Aug 2020 - Present)	
@@ -66,7 +66,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service 
+Services 
 ======
 * Reviewed papers from international conferences, such as ISMB, RECOMB, WABI, etc.
 
