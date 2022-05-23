@@ -18,22 +18,22 @@ Education
 
 Research Experience
 ======
-* Center for Mathematics & Computer Science (CWI, the Netherlands, Nov 2018 - Jul 2020)  &
-* Bielefeld University (Germany, Aug 2020 - Present)	
+* **Center for Mathematics & Computer Science** (CWI, the Netherlands, Nov 2018 - Jul 2020)  &
+* **Bielefeld University** (Germany, Aug 2020 - Present)	
   * PhD Student
   * Supervisor: Prof. Alexander Schönhuth
   * Main projects:
     * Developed computational methods for haplotype-aware genome assembly from next-generation and third-generation sequencing data.
     * Developed deep learning based models for predicting complex diseases from genetic variants.
 
-* Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences &	New York University Shanghai
+* **Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences &	New York University Shanghai**
   * Mar 2017 - Oct 2018: Research Assistant 
   * Supervisor: Prof. Jiandong Huang & Prof. Gang Fang
   * Main projects:
     * Analyzed single-cell data generated from mass cytometry (CyTOF) to investigate the immunologic machnism of inhibiting cancer metastasis after treatment with YB1 bacterium in mouse.
     * Developed a bioinformatics pipeline for designing personalized bladder cancer vaccines.
 
-* BGI-Shenzhen
+* **BGI-Shenzhen**
   * Mar 2012 - Jul 2016: Internship (Joint Training Programs)
   * Main projects: 
     * Applied metagenomics to study the associations between human gut/oral microbiota and diseases, such as inflammatory bowel disease, rheumatoid arthritis and type 2 diabetes. 
