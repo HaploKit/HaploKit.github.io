@@ -12,7 +12,7 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://www.nature.com/articles/s41467-021-22755-3)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). what the fuck.!
 
 - Luo, X.*, Kang, X*. & Schönhuth, A. (2021). phasebook: haplotype-aware de novo assembly of diploid genomes from long reads.  Genome Biology 22, 299. [IF: 13.6, JCR: Q1] 
 [URL: https://doi.org/10.1186/s13059-021-02512-x](https://doi.org/10.1186/s13059-021-02512-x)
