@@ -1,7 +1,7 @@
 ---
 title: "StrainXpress: strain-aware metagenome asembly from short reads"
 collection: publications
-permalink: /publication/2022-StrainXpress-paper-title-number-6
+permalink: /publication/06-2022-StrainXpress-paper-title-number-6
 excerpt: 'Here, we present StrainXpress, as a comprehensive solution to the problem of strain aware metagenome assembly from next-generation sequencing reads. In experiments, StrainXpress reconstructs strain-specific genomes from metagenomes that involve up to more than 1000 strains, and proves to successfully deal with poorly covered strains. '
 date: 2022
 venue: 'Nucleic Acids Research'
