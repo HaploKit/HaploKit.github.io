@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Computational Genomics"
 title_separator          : "-"
-name                     : &name "Xiao Luo"
+name                     : &name "Computational Genomics"
 description              : &description "personal description"
 url                      : https://HaploKit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiao Luo"
   avatar           : "profile.jpg"
-  bio              : "Bioinformatician"
+  bio              : "PhD candidate"
   location         : "Germany"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
