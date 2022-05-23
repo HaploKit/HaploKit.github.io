@@ -1,7 +1,7 @@
 ---
 title: "phasebook: haplotype-aware de novo assembly of diploid genomes from long reads"
 collection: publications
-permalink: /publication/2021-10-27-paper-title-number-3
+permalink: /publication/03-2021-10-27-paper-title-number-3
 excerpt: 'We present phasebook, a de novo approach for reconstructing the haplotypes of diploid genomes from long reads. phasebook outperforms other approaches in terms of haplotype coverage by large margins, in addition to achieving competitive performance in terms of assembly errors and assembly contiguity.'
 date: 2021-10-27
 venue: 'Genome Biology'
