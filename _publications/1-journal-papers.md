@@ -1,4 +1,13 @@
-
+---
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/1-journal-papers
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
 
 - Luo, X.*, Kang, X*. & Schönhuth, A. (2021). phasebook: haplotype-aware de novo assembly of diploid genomes from long reads.  Genome Biology 22, 299. [IF: 13.6, JCR: Q1] 
 [URL: https://doi.org/10.1186/s13059-021-02512-x](https://doi.org/10.1186/s13059-021-02512-x)
