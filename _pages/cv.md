@@ -18,13 +18,13 @@ Education
 
 Research Experience
 ======
-* Center for Mathematics & Computer Science (CWI, the Netherlands)  &
-* Bielefeld University (Germany)	
-* Nov 2018 - Present: PhD Student
-* Supervisor: Prof. Alexander Schönhuth
-* Main projects:
-  * Developed computational methods for haplotype-aware genome assembly from next-generation and third-generation sequencing data.
-  * Developed deep learning based models for predicting complex diseases from genetic variants.
+* Center for Mathematics & Computer Science (CWI, the Netherlands, Nov 2018 - Jul 2020)  &
+* Bielefeld University (Germany, Aug 2020 - Present)	
+  * PhD Student
+  * Supervisor: Prof. Alexander Schönhuth
+  * Main projects:
+    * Developed computational methods for haplotype-aware genome assembly from next-generation and third-generation sequencing data.
+    * Developed deep learning based models for predicting complex diseases from genetic variants.
 
 * Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences &	New York University Shanghai
   * Mar 2017 - Oct 2018: Research Assistant 
