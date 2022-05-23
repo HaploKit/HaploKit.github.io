@@ -29,12 +29,12 @@ Work experience
   
 Skills
 ======
-* Programming Python (proficient), C++/Perl/R/Shell (competent), Rust/Javascript (novice)
-* Skill 2
+* **Programming** Python (proficient), C++/Perl/R/Shell (competent), Rust/Javascript (novice)
+* **Languages** Madrin (mother), English (proficient)
+
+<!-- * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Languages Madrin (mother), English (proficient)
+  * Sub-skill 2.3 -->
 
 Publications
 ======
